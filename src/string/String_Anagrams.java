@@ -28,17 +28,22 @@ class String_Anagrams {
 
         for (char c : a.toCharArray ( )) {
             letters[c]++;
-//            System.out.println ( c  + letters[c] );
+            System.out.println ( c  + letters[c] );
 
         }
+
+        System.out.println ( );
 
         for (char c : b.toCharArray ( )) {
             letters[c]--;
-//            System.out.println ( c + letters[c] );
+            System.out.println ( c + letters[c] );
         }
 
+
+
         for (int i : letters) {
-            if ( i != 0 ) {
+            if ( i != 0 ) // Checking, it is not NULL
+            {
                 flag=0;
             }else{
                 flag=1;
