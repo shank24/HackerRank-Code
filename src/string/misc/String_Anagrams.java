@@ -1,13 +1,9 @@
-/*
-https://www.hackerrank.com/challenges/java-anagrams/problem
- */
-package Java_Practice_Hacker_Rank;
+package string.misc;
 
 import java.util.Scanner;
 
 public
-class Solution_18 {
-
+class String_Anagrams {
 
     public static
     void main (String[] args) {
@@ -30,29 +26,22 @@ class Solution_18 {
 
         int[] letters = new int[1 << 8];
 
-        // It is counting the occurrences of characters in the string.
         for (char c : a.toCharArray ( )) {
             letters[c]++;
-            System.out.println ( c );
-            System.out.println (letters[c]);
+            System.out.println ( c  + letters[c] );
 
         }
 
         System.out.println ( );
 
-        // In the same way, it is decrementing the
         for (char c : b.toCharArray ( )) {
             letters[c]--;
-            System.out.println ( c  );
-            System.out.println (letters[c]);
+            System.out.println ( c + letters[c] );
         }
 
 
-        // Here if the strings are anagrams, then in same order the
-        // letters value will come to 0, so if it is not 0, then it is not anagrams.
 
         for (int i : letters) {
-            //System.out.println (i );
             if ( i != 0 ) // Checking, it is not NULL
             {
                 flag=0;
