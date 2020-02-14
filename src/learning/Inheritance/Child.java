@@ -1,13 +1,16 @@
 package learning.Inheritance;
 
 public
-class Child extends Parent{
+class Child extends Parent {
 
     // Parent & Child share the same memory location
-    Child(){
-        System.out.println ("Child Object   "+this );
+    Child ( ) {
+        //super();
+        System.out.println ( "Child Object   " + this );
     }
-    void f2(){
-        System.out.println ("Inside f2" );
+
+    void f2 ( ) {
+        super.f1 ();
+        System.out.println ( "Inside f2" );
     }
 }
