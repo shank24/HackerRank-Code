@@ -1,6 +1,7 @@
 package learning.collections.List;
 
 import java.util.ArrayList;
+import java.util.Iterator;
 
 public
 class ArrayListDemo {
@@ -15,5 +16,12 @@ class ArrayListDemo {
         // anything in (INT,FLOAT,STRING)
         System.out.println ( list );
 
+        Iterator<Integer> integerIterator = list.iterator ();
+
+        while (integerIterator.hasNext ()){
+            System.out.println (integerIterator.next () );
+            integerIterator.remove ();
+        }
+        System.out.println (list );
     }
 }

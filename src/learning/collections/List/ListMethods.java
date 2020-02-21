@@ -33,6 +33,13 @@ class ListMethods {
             System.out.println ("List does not have a value" );
         }
 
+        for(int i=0;i<list.size ();i++){
+            System.out.println (list.get ( i ) );
+        }
+
+
+        list.remove ( 3 );
+        System.out.println (list );
 
     }
 }
