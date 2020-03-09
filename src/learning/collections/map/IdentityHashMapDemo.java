@@ -17,6 +17,7 @@ class IdentityHashMapDemo {
         map.put ( id2 , "Sarthi" );
 
         System.out.println ( map );
+        // In case of Map
         // It is overriding the existing Values, because we are
         // passing same keys as 10.
 
@@ -24,6 +25,8 @@ class IdentityHashMapDemo {
         // whereas it used == operator.
 
         // Hashmap uses equals() to check the content
+
+        // In case of IdentityHashMap , it allows the 2 value, because it use "==" operator.
 
     }
 }
