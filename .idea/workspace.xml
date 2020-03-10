@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="556b6025-e68c-4a6b-bf0e-383e7c3b31b5" name="Default Changelist" comment="" />
+    <list default="true" id="556b6025-e68c-4a6b-bf0e-383e7c3b31b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/learning/collections/navigable/NavigableSetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/collectionsUtil/SortedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/learning/collections/Queue/PriorityQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/Queue/PriorityQueueDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/learning/collections/map/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/map/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learning/collections/Queue/PriorityQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learning/collections/Queue/PriorityQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learning/collections/map/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learning/collections/map/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,7 +80,7 @@
       <recent name="$PROJECT_DIR$/src/string/collection_prob" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WeakHashMapDemo">
+  <component name="RunManager" selected="Application.SortedList">
     <configuration name="IdentityHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learning.collections.map.IdentityHashMapDemo" />
       <module name="HackerRank" />
@@ -99,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTreeSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.collections.Set.StringTreeSet" />
+    <configuration name="NavigableSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learning.collections.navigable.NavigableSetDemo" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning.collections.Set.*" />
+          <option name="PATTERN" value="learning.collections.navigable.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.collections.sortingObjects.Test" />
+    <configuration name="SortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learning.collectionsUtil.SortedList" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning.collections.sortingObjects.*" />
+          <option name="PATTERN" value="learning.collectionsUtil.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +147,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.StringTreeSet" />
-      <item itemvalue="Application.Test" />
       <item itemvalue="Application.LinkedHashMapDemo" />
       <item itemvalue="Application.IdentityHashMapDemo" />
       <item itemvalue="Application.WeakHashMapDemo" />
+      <item itemvalue="Application.NavigableSetDemo" />
+      <item itemvalue="Application.SortedList" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SortedList" />
+        <item itemvalue="Application.NavigableSetDemo" />
         <item itemvalue="Application.WeakHashMapDemo" />
         <item itemvalue="Application.IdentityHashMapDemo" />
         <item itemvalue="Application.LinkedHashMapDemo" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.StringTreeSet" />
       </list>
     </recent_temporary>
   </component>
@@ -220,34 +228,46 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="489" y="155" width="501" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1583759190563" />
-    <state width="1253" height="61" key="GridCell.Tab.0.bottom" timestamp="1583763207927">
+    <state width="1253" height="233" key="GridCell.Tab.0.bottom" timestamp="1583840324742">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="61" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583763207927" />
-    <state width="1253" height="61" key="GridCell.Tab.0.center" timestamp="1583763207925">
+    <state width="1253" height="233" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583840324742" />
+    <state width="1253" height="233" key="GridCell.Tab.0.center" timestamp="1583840324742">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="61" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583763207925" />
-    <state width="1253" height="61" key="GridCell.Tab.0.left" timestamp="1583763207923">
+    <state width="1253" height="233" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583840324742" />
+    <state width="1253" height="233" key="GridCell.Tab.0.left" timestamp="1583840324742">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="61" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583763207923" />
-    <state width="1253" height="61" key="GridCell.Tab.0.right" timestamp="1583763207926">
+    <state width="1253" height="233" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583840324742" />
+    <state width="1253" height="233" key="GridCell.Tab.0.right" timestamp="1583840324742">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="61" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583763207926" />
+    <state width="1253" height="233" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583840324742" />
     <state x="205" y="33" key="SettingsEditor" timestamp="1583763197239">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="205" y="33" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1583763197239" />
-    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583749945060">
+    <state x="445" y="130" width="639" height="524" key="StructurePopup" timestamp="1583764551987">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583749945060" />
-    <state x="355" y="27" width="778" height="741" key="find.popup" timestamp="1583759181957">
+    <state x="445" y="130" width="639" height="524" key="StructurePopup/67.27.1299.741@67.27.1299.741" timestamp="1583764551987" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1583839711363">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="355" y="27" width="778" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1583759181957" />
+    <state width="498" height="446" key="SwitcherDM/67.27.1299.741@67.27.1299.741" timestamp="1583839711363" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583839078464">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583839078464" />
+    <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583764487913">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1583764487913" />
+    <state x="355" y="27" width="778" height="741" key="find.popup" timestamp="1583839687335">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="355" y="27" width="778" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1583839687335" />
     <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1583752722027">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
