@@ -2,6 +2,7 @@ package learning.collectionsUtil;
 
 import java.util.ArrayList;
 import java.util.Collections;
+import java.util.Comparator;
 import java.util.List;
 
 public class SortedList {
@@ -19,6 +20,10 @@ public class SortedList {
 
         Collections.sort(list);
         System.out.println(list);
+
+        int a = Collections.binarySearch(list, "B");
+
+        System.out.println(a);
 
     }
 }

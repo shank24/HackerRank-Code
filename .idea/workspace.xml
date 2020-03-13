@@ -2,13 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="556b6025-e68c-4a6b-bf0e-383e7c3b31b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learning/collections/navigable/NavigableSetDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/collectionsUtil/SortedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/functionalInterface/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/functionalInterface/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/functionalInterface/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/functionalInterface/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/lambda/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/lambda/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/lambdas/anonymous/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/lambdas/interfaces/MyRunnableImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/lambdas/interfaces/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/collectionsUtil/ArraysSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/collectionsUtil/MyComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/collectionsUtil/collectionsReverseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/enums/Databases.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/enums/PaymentType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/enums/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/generics/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/generics/AnyRunnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/generics/AnyRunnableTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/generics/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/generics/MethodLevelGenerics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/generics/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/generics/MyGenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/generics/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/generics/TypeCastingProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/generics/WildCardParams.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/Queue/PriorityQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/Queue/PriorityQueueDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/map/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/map/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learning/collections/Queue/PriorityQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learning/collections/Queue/PriorityQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learning/collections/map/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learning/collections/map/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/learning/collectionsUtil/SortedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collectionsUtil/SortedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learning/collectionsUtil/SortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learning/collectionsUtil/SortedList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +53,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
@@ -69,24 +91,24 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java8Features.lambdas.anonymous" />
       <recent name="learning.collections.map" />
       <recent name="learning.collections.Set" />
       <recent name="learning.Stream" />
       <recent name="learning.InnerClasses.accessOuterClass" />
-      <recent name="learning.InnerClasses.staticInner" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/learning/multithreading/synchronization/syncBlocks" />
       <recent name="$PROJECT_DIR$/src/string/collection_prob" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SortedList">
-    <configuration name="IdentityHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.collections.map.IdentityHashMapDemo" />
+  <component name="RunManager" selected="Application.Test (4)">
+    <configuration name="AnyRunnableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learning.generics.AnyRunnableTest" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning.collections.map.*" />
+          <option name="PATTERN" value="learning.generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.collections.map.LinkedHashMapDemo" />
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learning.enums.Test" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning.collections.map.*" />
+          <option name="PATTERN" value="learning.enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NavigableSetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.collections.navigable.NavigableSetDemo" />
+    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Features.functionalInterface.Test" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning.collections.navigable.*" />
+          <option name="PATTERN" value="java8Features.functionalInterface.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.collectionsUtil.SortedList" />
+    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Features.lambda.Test" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning.collectionsUtil.*" />
+          <option name="PATTERN" value="java8Features.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +155,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WeakHashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.collections.map.WeakHashMapDemo" />
+    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Features.lambdas.anonymous.Test" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning.collections.map.*" />
+          <option name="PATTERN" value="java8Features.lambdas.anonymous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Features.lambdas.interfaces.Test" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8Features.lambdas.interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,19 +182,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LinkedHashMapDemo" />
-      <item itemvalue="Application.IdentityHashMapDemo" />
-      <item itemvalue="Application.WeakHashMapDemo" />
-      <item itemvalue="Application.NavigableSetDemo" />
-      <item itemvalue="Application.SortedList" />
+      <item itemvalue="Application.AnyRunnableTest" />
+      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.Test (2)" />
+      <item itemvalue="Application.Test (3)" />
+      <item itemvalue="Application.Test (4)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortedList" />
-        <item itemvalue="Application.NavigableSetDemo" />
-        <item itemvalue="Application.WeakHashMapDemo" />
-        <item itemvalue="Application.IdentityHashMapDemo" />
-        <item itemvalue="Application.LinkedHashMapDemo" />
+        <item itemvalue="Application.Test (4)" />
+        <item itemvalue="Application.Test (3)" />
+        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.AnyRunnableTest" />
       </list>
     </recent_temporary>
   </component>
@@ -216,6 +251,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1583938936181">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1583938936181" />
     <state x="557" y="289" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583752188995">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -228,22 +267,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="489" y="155" width="501" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1583759190563" />
-    <state width="1253" height="233" key="GridCell.Tab.0.bottom" timestamp="1583840324742">
+    <state width="1253" height="233" key="GridCell.Tab.0.bottom" timestamp="1584094797685">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1583840324742" />
-    <state width="1253" height="233" key="GridCell.Tab.0.center" timestamp="1583840324742">
+    <state width="1253" height="233" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584094797685" />
+    <state width="1253" height="233" key="GridCell.Tab.0.center" timestamp="1584094797684">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1583840324742" />
-    <state width="1253" height="233" key="GridCell.Tab.0.left" timestamp="1583840324742">
+    <state width="1253" height="233" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584094797684" />
+    <state width="1253" height="233" key="GridCell.Tab.0.left" timestamp="1584094797684">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1583840324742" />
-    <state width="1253" height="233" key="GridCell.Tab.0.right" timestamp="1583840324742">
+    <state width="1253" height="233" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584094797684" />
+    <state width="1253" height="233" key="GridCell.Tab.0.right" timestamp="1584094797685">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1583840324742" />
+    <state width="1253" height="233" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584094797685" />
     <state x="205" y="33" key="SettingsEditor" timestamp="1583763197239">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -252,22 +291,26 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="445" y="130" width="639" height="524" key="StructurePopup/67.27.1299.741@67.27.1299.741" timestamp="1583764551987" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1583839711363">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1583938375107">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/67.27.1299.741@67.27.1299.741" timestamp="1583839711363" />
-    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1583839078464">
+    <state width="498" height="446" key="SwitcherDM/67.27.1299.741@67.27.1299.741" timestamp="1583938375107" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1584092532672">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1583839078464" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1584092532672" />
     <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583764487913">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1299.741@67.27.1299.741" timestamp="1583764487913" />
-    <state x="355" y="27" width="778" height="741" key="find.popup" timestamp="1583839687335">
+    <state x="449" y="138" width="524" height="516" key="extract.method.dialog" timestamp="1583842357263">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="355" y="27" width="778" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1583839687335" />
+    <state x="449" y="138" width="524" height="516" key="extract.method.dialog/67.27.1299.741@67.27.1299.741" timestamp="1583842357263" />
+    <state x="355" y="27" width="778" height="741" key="find.popup" timestamp="1584094775552">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="355" y="27" width="778" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1584094775552" />
     <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1583752722027">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
