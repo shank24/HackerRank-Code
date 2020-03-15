@@ -1,4 +1,4 @@
-package java8Features.lambda;
+package java8Features.lambdas.additon;
 
 public class Test {
     public static void main(String[] args) {

@@ -2,34 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="556b6025-e68c-4a6b-bf0e-383e7c3b31b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java8Features/functionalInterface/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8Features/functionalInterface/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8Features/functionalInterface/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8Features/functionalInterface/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8Features/lambda/Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8Features/lambda/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8Features/lambdas/anonymous/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8Features/lambdas/interfaces/MyRunnableImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8Features/lambdas/interfaces/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/collectionsUtil/ArraysSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/collectionsUtil/MyComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/collectionsUtil/collectionsReverseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/enums/Databases.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/enums/PaymentType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/enums/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/generics/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/generics/AnyRunnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/generics/AnyRunnableTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/generics/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/generics/MethodLevelGenerics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/generics/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/generics/MyGenericClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/generics/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/generics/TypeCastingProblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learning/generics/WildCardParams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/Streams/FilterEvenNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/Streams/UpperToLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/constructors/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/constructors/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/constructors/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/function/FunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/function/MethodRefDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/function/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/function/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/lambdas/defaultMethods/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/lambdas/defaultMethods/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/lambdas/defaultMethods/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/lambdas/defaultMethods/X.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/predicates/GreaterThan20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/predicates/LengthOfString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8Features/predicates/PredicatesJoins.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collectionsUtil/SortedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collectionsUtil/SortedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learning/collectionsUtil/SortedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learning/collectionsUtil/SortedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Features/lambda/Sum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8Features/lambda/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8Features/lambda/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8Features/lambdas/additon/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8Features/lambda/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8Features/lambdas/additon/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,24 +84,50 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="java8Features.lambdas.defaultMethods" />
       <recent name="java8Features.lambdas.anonymous" />
       <recent name="learning.collections.map" />
       <recent name="learning.collections.Set" />
       <recent name="learning.Stream" />
-      <recent name="learning.InnerClasses.accessOuterClass" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/learning/multithreading/synchronization/syncBlocks" />
       <recent name="$PROJECT_DIR$/src/string/collection_prob" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test (4)">
-    <configuration name="AnyRunnableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.generics.AnyRunnableTest" />
+  <component name="RunManager" selected="Application.FilterEvenNumbers">
+    <configuration name="FilterEvenNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Features.Streams.FilterEvenNumbers" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning.generics.*" />
+          <option name="PATTERN" value="java8Features.Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LengthOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Features.predicates.LengthOfString" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8Features.predicates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicatesJoins" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Features.predicates.PredicatesJoins" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8Features.predicates.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,50 +136,11 @@
       </method>
     </configuration>
     <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.enums.Test" />
+      <option name="MAIN_CLASS_NAME" value="java8Features.constructors.Test" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning.enums.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8Features.functionalInterface.Test" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8Features.functionalInterface.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8Features.lambda.Test" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8Features.lambda.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8Features.lambdas.anonymous.Test" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java8Features.lambdas.anonymous.*" />
+          <option name="PATTERN" value="java8Features.constructors.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -181,20 +161,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UpperToLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8Features.Streams.UpperToLowerCase" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8Features.Streams.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.AnyRunnableTest" />
+      <item itemvalue="Application.LengthOfString" />
+      <item itemvalue="Application.PredicatesJoins" />
       <item itemvalue="Application.Test (1)" />
-      <item itemvalue="Application.Test (2)" />
-      <item itemvalue="Application.Test (3)" />
-      <item itemvalue="Application.Test (4)" />
+      <item itemvalue="Application.FilterEvenNumbers" />
+      <item itemvalue="Application.UpperToLowerCase" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test (4)" />
-        <item itemvalue="Application.Test (3)" />
-        <item itemvalue="Application.Test (2)" />
+        <item itemvalue="Application.FilterEvenNumbers" />
+        <item itemvalue="Application.UpperToLowerCase" />
         <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.AnyRunnableTest" />
+        <item itemvalue="Application.PredicatesJoins" />
+        <item itemvalue="Application.LengthOfString" />
       </list>
     </recent_temporary>
   </component>
@@ -251,10 +244,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1583938936181">
+    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1584197851318">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1583938936181" />
+    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1584197851318" />
     <state x="557" y="289" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583752188995">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -263,26 +256,30 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="294" y="55" width="824" height="684" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/67.27.1299.741@67.27.1299.741" timestamp="1583752176030" />
+    <state x="469" y="283" width="494" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1584094907878">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="469" y="283" width="494" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1299.741@67.27.1299.741" timestamp="1584094907878" />
     <state x="489" y="155" width="501" height="484" key="FileChooserDialogImpl" timestamp="1583759190563">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="489" y="155" width="501" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1583759190563" />
-    <state width="1253" height="233" key="GridCell.Tab.0.bottom" timestamp="1584094797685">
+    <state width="1253" height="233" key="GridCell.Tab.0.bottom" timestamp="1584199730093">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584094797685" />
-    <state width="1253" height="233" key="GridCell.Tab.0.center" timestamp="1584094797684">
+    <state width="1253" height="233" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584199730093" />
+    <state width="1253" height="233" key="GridCell.Tab.0.center" timestamp="1584199730092">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584094797684" />
-    <state width="1253" height="233" key="GridCell.Tab.0.left" timestamp="1584094797684">
+    <state width="1253" height="233" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584199730092" />
+    <state width="1253" height="233" key="GridCell.Tab.0.left" timestamp="1584199730092">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584094797684" />
-    <state width="1253" height="233" key="GridCell.Tab.0.right" timestamp="1584094797685">
+    <state width="1253" height="233" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584199730092" />
+    <state width="1253" height="233" key="GridCell.Tab.0.right" timestamp="1584199730092">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584094797685" />
+    <state width="1253" height="233" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584199730092" />
     <state x="205" y="33" key="SettingsEditor" timestamp="1583763197239">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -291,10 +288,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="445" y="130" width="639" height="524" key="StructurePopup/67.27.1299.741@67.27.1299.741" timestamp="1583764551987" />
-    <state width="498" height="446" key="SwitcherDM" timestamp="1583938375107">
+    <state width="498" height="446" key="SwitcherDM" timestamp="1584196587697">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="498" height="446" key="SwitcherDM/67.27.1299.741@67.27.1299.741" timestamp="1583938375107" />
+    <state width="498" height="446" key="SwitcherDM/67.27.1299.741@67.27.1299.741" timestamp="1584196587697" />
     <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1584092532672">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -315,10 +312,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1583752722027" />
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583760404868">
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584095617108">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1583760404868" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1584095617108" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

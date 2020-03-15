@@ -1,4 +1,4 @@
-package java8Features.lambda;
+package java8Features.lambdas.additon;
 
 @FunctionalInterface
 public interface Sum {
