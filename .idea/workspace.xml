@@ -2,6 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="556b6025-e68c-4a6b-bf0e-383e7c3b31b5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/learning/annotations/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/annotations/AnnotationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/annotations/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/annotations/MyAnnotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/annotations/MyChild.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/annotations/MyParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/i18n/DateFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/i18n/SimpleDateFormatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learning/reflections/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -28,6 +37,7 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -75,13 +85,13 @@
       <recent name="$PROJECT_DIR$/src/string/collection_prob" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.NumberFormatTest">
-    <configuration name="LocaleTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.i18n.LocaleTest" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learning.annotations.B" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning.i18n.*" />
+          <option name="PATTERN" value="learning.annotations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipleObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.JVMArchitecture.MultipleObjects" />
+    <configuration name="DateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learning.i18n.DateFormatTest" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning.JVMArchitecture.*" />
+          <option name="PATTERN" value="learning.i18n.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberFormatTestAssignment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.assignment.Locale.NumberFormatTestAssignment" />
+    <configuration name="SimpleDateFormatTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learning.i18n.SimpleDateFormatTest" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning.assignment.Locale.*" />
+          <option name="PATTERN" value="learning.i18n.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learning.JVMArchitecture.Test" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learning.reflections.Test" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learning.JVMArchitecture.*" />
+          <option name="PATTERN" value="learning.reflections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,19 +152,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MultipleObjects" />
-      <item itemvalue="Application.Test (2)" />
-      <item itemvalue="Application.LocaleTest" />
+      <item itemvalue="Application.B" />
+      <item itemvalue="Application.DateFormatTest" />
       <item itemvalue="Application.NumberFormatTest" />
-      <item itemvalue="Application.NumberFormatTestAssignment" />
+      <item itemvalue="Application.SimpleDateFormatTest" />
+      <item itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.B" />
+        <item itemvalue="Application.SimpleDateFormatTest" />
+        <item itemvalue="Application.DateFormatTest" />
         <item itemvalue="Application.NumberFormatTest" />
-        <item itemvalue="Application.NumberFormatTestAssignment" />
-        <item itemvalue="Application.LocaleTest" />
-        <item itemvalue="Application.MultipleObjects" />
-        <item itemvalue="Application.Test (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -211,10 +221,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1584197851318">
+    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1584803316994">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1584197851318" />
+    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1584803316994" />
     <state x="557" y="289" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583752188995">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -231,22 +241,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="489" y="155" width="501" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1584530018435" />
-    <state width="1253" height="233" key="GridCell.Tab.0.bottom" timestamp="1584713229400">
+    <state width="1253" height="233" key="GridCell.Tab.0.bottom" timestamp="1584950256087">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584713229400" />
-    <state width="1253" height="233" key="GridCell.Tab.0.center" timestamp="1584713229398">
+    <state width="1253" height="233" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1584950256087" />
+    <state width="1253" height="233" key="GridCell.Tab.0.center" timestamp="1584950256087">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584713229398" />
-    <state width="1253" height="233" key="GridCell.Tab.0.left" timestamp="1584713229397">
+    <state width="1253" height="233" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1584950256087" />
+    <state width="1253" height="233" key="GridCell.Tab.0.left" timestamp="1584950256087">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584713229397" />
-    <state width="1253" height="233" key="GridCell.Tab.0.right" timestamp="1584713229399">
+    <state width="1253" height="233" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1584950256087" />
+    <state width="1253" height="233" key="GridCell.Tab.0.right" timestamp="1584950256087">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584713229399" />
+    <state width="1253" height="233" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1584950256087" />
     <state x="205" y="33" key="SettingsEditor" timestamp="1583763197239">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -259,10 +269,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="498" height="446" key="SwitcherDM/67.27.1299.741@67.27.1299.741" timestamp="1584196587697" />
-    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1584530010346">
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1584881564632">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1584530010346" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1584881564632" />
     <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583764487913">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -271,10 +281,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="449" y="138" width="524" height="516" key="extract.method.dialog/67.27.1299.741@67.27.1299.741" timestamp="1583842357263" />
-    <state x="355" y="27" width="778" height="741" key="find.popup" timestamp="1584094775552">
+    <state x="355" y="27" width="778" height="741" key="find.popup" timestamp="1584803321740">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="355" y="27" width="778" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1584094775552" />
+    <state x="355" y="27" width="778" height="741" key="find.popup/67.27.1299.741@67.27.1299.741" timestamp="1584803321740" />
     <state x="67" y="27" width="1289" height="741" key="new project wizard" timestamp="1583752722027">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
