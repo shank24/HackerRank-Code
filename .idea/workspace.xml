@@ -2,13 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="556b6025-e68c-4a6b-bf0e-383e7c3b31b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java9Features/immutable/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java9Features/privateMethods/SendNotificationImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java9Features/privateMethods/SendNotifications.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java9Features/safeVarArgs/SafeVarArgsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java9Features/streamingAPI/StreamingAPIDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java9Features/tryWithresource/MyWorkers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java9Features/tryWithresource/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/datatype/PrimitiveType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/datatype/ReferenceType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/interfacepolymorphism/Alarm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/interfacepolymorphism/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/interfacepolymorphism/GoogleMini.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/interfacepolymorphism/IPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/interfacepolymorphism/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/lambda/GreetingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/lambda/TestGreet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/polymorphism/AreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/polymorphism/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/polymorphism/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/polymorphism/Horse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/polymorphism/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HackerRank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_1.class" afterDir="false" />
@@ -31,6 +41,7 @@
       <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_7.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_8.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_9.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/META-INF/HackerRank.kotlin_module" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Average.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Average.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Calc.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Circle_Area.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Circle_Area.class" afterDir="false" />
@@ -72,6 +83,13 @@
       <change beforePath="$PROJECT_DIR$/bin/java8Features/predicates/GreaterThan20.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/predicates/GreaterThan20.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8Features/predicates/LengthOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/predicates/LengthOfString.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/java8Features/predicates/PredicatesJoins.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/predicates/PredicatesJoins.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java9Features/Interface/com/java9/SendNotificationImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java9Features/Interface/com/java9/SendNotifications.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java9Features/immutable/Demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java9Features/safeVarArgs/SafeVarArgsDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java9Features/streamingAPI/StreamingAPIDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java9Features/tryWithresource/MyWorkers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java9Features/tryWithresource/MyWorkers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java9Features/tryWithresource/Test.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/Animal.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/Canine.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/Canine.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/Cat.class" afterDir="false" />
@@ -314,6 +332,12 @@
       <change beforePath="$PROJECT_DIR$/bin/string/misc/String_Regex_Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/String_Regex_Tester.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/string/misc/String_Tokenizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/String_Tokenizer.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/string/regex/PatternFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/regex/PatternFind.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java9Features/immutable/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java9Features/immutable/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java9Features/privateMethods/SendNotificationImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java9Features/privateMethods/SendNotificationImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java9Features/privateMethods/SendNotifications.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java9Features/privateMethods/SendNotifications.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java9Features/safeVarArgs/SafeVarArgsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java9Features/safeVarArgs/SafeVarArgsDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java9Features/streamingAPI/StreamingAPIDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java9Features/streamingAPI/StreamingAPIDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java9Features/tryWithresource/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java9Features/tryWithresource/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -359,11 +383,11 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="divi&#9;FILE&#9;file:///home/shanky/Files/Personal/Learning/FW/Java/HackerRank/src/learning/exception/Division.java&#10;linked&#9;FILE&#9;file:///home/shanky/Files/Personal/Learning/FW/Java/HackerRank/src/learning/Map/LinkedHashMapDemo.java&#10;Collection&#9;PSI&#9;JAVA://java.util.Collection" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -371,11 +395,11 @@
     <property name="last_opened_file_path" value="$USER_HOME$/Project/FW/LumiPlus" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="experimental" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -390,7 +414,7 @@
       <recent name="$PROJECT_DIR$/src/string/collection_prob" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamingAPIDemo">
+  <component name="RunManager" selected="Application.TestGreet">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java9Features.immutable.Demo" />
       <module name="HackerRank" />
@@ -404,12 +428,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SafeVarArgsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java9Features.safeVarArgs.SafeVarArgsDemo" />
+    <configuration name="PrimitiveType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8WithSelenium.com.udemy.java.datatype.PrimitiveType" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java9Features.safeVarArgs.*" />
+          <option name="PATTERN" value="java8WithSelenium.com.udemy.java.datatype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -417,12 +441,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SendNotificationImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java9Features.Interface.com.java9.SendNotificationImpl" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="misc.ReverseArray" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java9Features.Interface.com.java9.*" />
+          <option name="PATTERN" value="misc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -430,20 +454,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamingAPIDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java9Features.streamingAPI.StreamingAPIDemo" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java9Features.streamingAPI.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java9Features.tryWithresource.Test" />
       <module name="HackerRank" />
       <extension name="coverage">
@@ -456,20 +467,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestGreet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8WithSelenium.com.udemy.java.lambda.TestGreet" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8WithSelenium.com.udemy.java.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.SendNotificationImpl" />
-      <item itemvalue="Application.Test (1)" />
+      <item itemvalue="Application.TestGreet" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ReverseArray" />
+      <item itemvalue="Application.PrimitiveType" />
       <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.SafeVarArgsDemo" />
-      <item itemvalue="Application.StreamingAPIDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamingAPIDemo" />
-        <item itemvalue="Application.SafeVarArgsDemo" />
+        <item itemvalue="Application.TestGreet" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Test (1)" />
-        <item itemvalue="Application.SendNotificationImpl" />
+        <item itemvalue="Application.PrimitiveType" />
+        <item itemvalue="Application.ReverseArray" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -529,10 +553,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1585984973094">
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586326151116">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1585984973094" />
+    <state x="174" y="54" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1299.741@67.27.1299.741" timestamp="1586326151116" />
+    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1586100184239">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="524" y="109" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1586100184239" />
     <state x="557" y="289" width="308" height="216" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1583752188995">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -545,30 +573,30 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="469" y="283" width="494" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/67.27.1299.741@67.27.1299.741" timestamp="1584094907878" />
-    <state x="489" y="155" width="501" height="484" key="FileChooserDialogImpl" timestamp="1584530018435">
+    <state x="489" y="155" width="501" height="484" key="FileChooserDialogImpl" timestamp="1586344984474">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="489" y="155" width="501" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1584530018435" />
-    <state width="1253" height="233" key="GridCell.Tab.0.bottom" timestamp="1586006806539">
+    <state x="489" y="155" width="501" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1586344984474" />
+    <state width="1253" height="233" key="GridCell.Tab.0.bottom" timestamp="1586353300252">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586006806539" />
-    <state width="1253" height="233" key="GridCell.Tab.0.center" timestamp="1586006806539">
+    <state width="1253" height="233" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586353300252" />
+    <state width="1253" height="233" key="GridCell.Tab.0.center" timestamp="1586353300251">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1586006806539" />
-    <state width="1253" height="233" key="GridCell.Tab.0.left" timestamp="1586006806539">
+    <state width="1253" height="233" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1586353300251" />
+    <state width="1253" height="233" key="GridCell.Tab.0.left" timestamp="1586353300251">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1586006806539" />
-    <state width="1253" height="233" key="GridCell.Tab.0.right" timestamp="1586006806539">
+    <state width="1253" height="233" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1586353300251" />
+    <state width="1253" height="233" key="GridCell.Tab.0.right" timestamp="1586353300251">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1586006806539" />
-    <state x="205" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1585983846135">
+    <state width="1253" height="233" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1586353300251" />
+    <state x="205" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1586345852161">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="205" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1585983846135" />
+    <state x="205" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1586345852161" />
     <state x="445" y="130" width="639" height="524" key="StructurePopup" timestamp="1583764551987">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -577,10 +605,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state width="498" height="446" key="SwitcherDM/67.27.1299.741@67.27.1299.741" timestamp="1584196587697" />
-    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1584881564632">
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog" timestamp="1586070745167">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1584881564632" />
+    <state x="372" y="225" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1586070745167" />
     <state x="484" y="316" width="454" height="160" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583764487913">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -597,10 +625,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1586007815743" />
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1584095617108">
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586142449733">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1584095617108" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1586142449733" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

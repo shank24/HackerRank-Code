@@ -1,3 +1,4 @@
+/*
 package java9Features.streamingAPI;
 
 import java.util.Arrays;
@@ -25,3 +26,4 @@ public class StreamingAPIDemo {
     }
 
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package java9Features.Interface.com.java9;
 
 public interface SendNotifications {
@@ -16,3 +17,4 @@ public interface SendNotifications {
         System.out.println("Establishing a Connection");
     }
 }
+*/

@@ -1,3 +1,4 @@
+/*
 package java9Features.Interface.com.java9;
 
 public class SendNotificationImpl implements java9Features.Interface.com.java9.SendNotifications {
@@ -9,3 +10,4 @@ public class SendNotificationImpl implements java9Features.Interface.com.java9.S
         java9Features.Interface.com.java9.SendNotifications.sendNotifications();
     }
 }
+*/

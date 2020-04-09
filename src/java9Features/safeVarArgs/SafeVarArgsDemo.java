@@ -1,3 +1,4 @@
+/*
 package java9Features.safeVarArgs;
 
 import java.util.ArrayList;
@@ -24,11 +25,14 @@ public class SafeVarArgsDemo {
 
     @SafeVarargs
     private void myMethod(List<String>...l){ //   List<String> []
-        /*Object[] objects =l;
+        */
+/*Object[] objects =l;
         objects[0] = Arrays.asList(1,2);
-*/
+*//*
+
         String name =(String)l[0].get(0);
         System.out.println(name);
 
     }
 }
+*/
