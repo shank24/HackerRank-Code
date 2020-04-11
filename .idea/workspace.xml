@@ -2,342 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="556b6025-e68c-4a6b-bf0e-383e7c3b31b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/datatype/PrimitiveType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/datatype/ReferenceType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/interfacepolymorphism/Alarm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/interfacepolymorphism/Clock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/interfacepolymorphism/GoogleMini.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/interfacepolymorphism/IPhone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/interfacepolymorphism/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/lambda/GreetingService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/lambda/TestGreet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/polymorphism/AreaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/polymorphism/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/polymorphism/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/polymorphism/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/polymorphism/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/assignment/task1/MathOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/assignment/task1/TestCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/functionalInterfaces/supplier/TestSupp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/lambda/StringOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/lambda/TestMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HackerRank.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HackerRank.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_10.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_11.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_12.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_13.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_14.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_15.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_16.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_17.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_18.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_19.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_19.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_20.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_9.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Java_Practice_Hacker_Rank/Solution_9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/META-INF/HackerRank.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Average.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Average.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Calc.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Calc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Circle_Area.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Circle_Area.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/DecimalToBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/DecimalToBinary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Divide.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Divide.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Multiplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Multiplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Operation1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Operation1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Operations.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Operations.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Swap.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Swap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Resource/basic_part1/Table.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Resource/basic_part1/Table.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/days_30/Solution_5.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/days_30/Solution_5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/days_30/Solution_6_Date_Time.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/days_30/Solution_6_Date_Time.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/days_30/Solution_7_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/days_30/Solution_7_Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/Streams/FilterEvenNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/Streams/FilterEvenNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/Streams/UpperToLowerCase.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/Streams/UpperToLowerCase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/constructors/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/constructors/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/constructors/MyInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/constructors/MyInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/constructors/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/constructors/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/function/FunctionTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/function/FunctionTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/function/MethodRefDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/function/MethodRefDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/function/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/function/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/function/MyInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/function/MyInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/functionalInterface/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/functionalInterface/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/functionalInterface/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/functionalInterface/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/functionalInterface/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/functionalInterface/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/functionalInterface/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/functionalInterface/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/lambdas/additon/Sum.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/lambdas/additon/Sum.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/lambdas/additon/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/lambdas/additon/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/lambdas/anonymous/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/lambdas/anonymous/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/lambdas/defaultMethods/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/lambdas/defaultMethods/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/lambdas/defaultMethods/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/lambdas/defaultMethods/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/lambdas/defaultMethods/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/lambdas/defaultMethods/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/lambdas/defaultMethods/X.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/lambdas/defaultMethods/X.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/lambdas/interfaces/MyRunnableImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/lambdas/interfaces/MyRunnableImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/lambdas/interfaces/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/lambdas/interfaces/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/predicates/GreaterThan20.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/predicates/GreaterThan20.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/predicates/LengthOfString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/predicates/LengthOfString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java8Features/predicates/PredicatesJoins.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8Features/predicates/PredicatesJoins.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java9Features/Interface/com/java9/SendNotificationImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java9Features/Interface/com/java9/SendNotifications.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java9Features/immutable/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java9Features/safeVarArgs/SafeVarArgsDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java9Features/streamingAPI/StreamingAPIDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java9Features/tryWithresource/MyWorkers.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java9Features/tryWithresource/MyWorkers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/java9Features/tryWithresource/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/Canine.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/Canine.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/Cat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/ConstructorChaining/Child.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/ConstructorChaining/Child.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/ConstructorChaining/ChildClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/ConstructorChaining/ChildClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/ConstructorChaining/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/ConstructorChaining/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/ConstructorChaining/SuperClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/ConstructorChaining/SuperClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/ConstructorChaining/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/ConstructorChaining/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/MultiLevelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/MultiLevelTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/Parent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/Parent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/SingleInheritance.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/SingleInheritance.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/multiLevelInheritance/JDK6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/multiLevelInheritance/JDK6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/multiLevelInheritance/JDK7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/multiLevelInheritance/JDK7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/multiLevelInheritance/JDK8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/multiLevelInheritance/JDK8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/multiLevelInheritance/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/multiLevelInheritance/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/vehicle/Bike.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/vehicle/Bike.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/vehicle/Bus.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/vehicle/Bus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/vehicle/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/vehicle/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/vehicle/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/vehicle/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Inheritance/vehicle/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Inheritance/vehicle/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/accessOuterClass/AccessOuterClass$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/accessOuterClass/AccessOuterClass$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/accessOuterClass/AccessOuterClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/accessOuterClass/AccessOuterClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/anonymousInnerClass/AnonymousRunnable$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/anonymousInnerClass/AnonymousRunnable$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/anonymousInnerClass/AnonymousRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/anonymousInnerClass/AnonymousRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/anonymousInnerClass/Connection.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/anonymousInnerClass/Connection.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/anonymousInnerClass/DriverManager$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/anonymousInnerClass/DriverManager$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/anonymousInnerClass/DriverManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/anonymousInnerClass/DriverManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/anonymousInnerClass/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/anonymousInnerClass/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/localInnerClass/LocalInner$1LocalClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/localInnerClass/LocalInner$1LocalClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/localInnerClass/LocalInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/localInnerClass/LocalInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/nonStaticInner/InnerClass$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/nonStaticInner/InnerClass$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/nonStaticInner/InnerClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/nonStaticInner/InnerClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/staticInner/NonStaticInner$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/staticInner/NonStaticInner$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/staticInner/NonStaticInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/staticInner/NonStaticInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/staticInner/StaticInner$Inner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/staticInner/StaticInner$Inner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/InnerClasses/staticInner/StaticInner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/InnerClasses/staticInner/StaticInner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/JVMArchitecture/MultipleObjects.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/JVMArchitecture/MultipleObjects.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/JVMArchitecture/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/JVMArchitecture/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/JVMArchitecture/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/JVMArchitecture/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Stream/BufferedReaderDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Stream/BufferedReaderDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Stream/FileInputStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Stream/FileInputStreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Stream/FileOutputStreamDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Stream/FileOutputStreamDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Stream/ReaderWriterDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Stream/ReaderWriterDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Stream/StringTokenizerDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Stream/StringTokenizerDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Stream/TryResourceBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Stream/TryResourceBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Stream/serilaization/DeserializedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Stream/serilaization/DeserializedDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Stream/serilaization/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Stream/serilaization/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/Stream/serilaization/SerilizationDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/Stream/serilaization/SerilizationDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/abstraction/BMW.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/abstraction/BMW.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/abstraction/FiveSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/abstraction/FiveSeries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/abstraction/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/abstraction/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/abstraction/ThreeSeries.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/abstraction/ThreeSeries.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/access_Modifier/p1/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/access_Modifier/p1/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/access_Modifier/p1/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/access_Modifier/p1/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/access_Modifier/p2/C.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/access_Modifier/p2/C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/access_Modifier/p2/D.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/access_Modifier/p2/D.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/annotations/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/annotations/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/annotations/AnnotationTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/annotations/AnnotationTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/annotations/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/annotations/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/annotations/MyAnnotation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/annotations/MyAnnotation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/annotations/MyChild.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/annotations/MyChild.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/annotations/MyParent.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/annotations/MyParent.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assertions/AssertTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assertions/AssertTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/Abstraction/DELL.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/Abstraction/DELL.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/Abstraction/DellNoteBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/Abstraction/DellNoteBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/Abstraction/HP.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/Abstraction/HP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/Abstraction/HPNoteBook.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/Abstraction/HPNoteBook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/Abstraction/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/Abstraction/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/Abstraction/TouchScreenLaptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/Abstraction/TouchScreenLaptop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/GradingApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/GradingApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/IsPrime.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/IsPrime.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/Locale/NumberFormatTestAssignment.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/Locale/NumberFormatTestAssignment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/Number.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/Number.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/array/StringReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/array/StringReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/encap/Patient.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/encap/Patient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/encap/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/encap/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/objectMethods/ElectricityBill.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/objectMethods/ElectricityBill.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/objectMethods/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/objectMethods/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/thread/EvenThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/thread/EvenThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/thread/MainThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/thread/MainThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/assignment/thread/OddThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/assignment/thread/OddThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/DataType/BitwiseDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/DataType/BitwiseDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/DataType/CommandLineArgu.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/DataType/CommandLineArgu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/DataType/ExplicitType.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/DataType/ExplicitType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/DataType/ImplicitDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/DataType/ImplicitDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/DataType/IncrementDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/DataType/IncrementDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/DataType/ShortCircuitOperators.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/DataType/ShortCircuitOperators.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/NonStatic/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/NonStatic/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/NonStatic/NonStaticReferenceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/NonStatic/NonStaticReferenceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/NonStatic/NonstaticMembersDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/NonStatic/NonstaticMembersDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/NonStatic/ObjectReferenceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/NonStatic/ObjectReferenceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/NonStatic/ThisKeywordDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/NonStatic/ThisKeywordDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/Static/StaticBlock.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/Static/StaticBlock.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/Static/StaticMethodDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/Static/StaticMethodDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/Static/StaticReferenceDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/Static/StaticReferenceDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/basic/Static/StaticVarDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/basic/Static/StaticVarDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/List/ArrayListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/List/ArrayListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/List/LIDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/List/LIDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/List/LinkedListDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/List/LinkedListDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/List/ListMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/List/ListMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/Queue/PriorityQueueDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/Queue/PriorityQueueDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/Set/DifferentSets.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/Set/DifferentSets.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/Set/HashSetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/Set/HashSetDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/Set/RandomDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/Set/RandomDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/Set/StringBufferTreeSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/Set/StringBufferTreeSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/Set/StringTreeSet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/Set/StringTreeSet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/comparator/SBComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/comparator/SBComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/comparator/StringComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/comparator/StringComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/map/HashMapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/map/HashMapDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/map/IdentityHashMapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/map/IdentityHashMapDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/map/LinkedHashMapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/map/LinkedHashMapDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/map/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/map/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/map/WeakHashMapDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/map/WeakHashMapDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/navigable/NavigableSetDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/navigable/NavigableSetDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/sortingObjects/EmpNameComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/sortingObjects/EmpNameComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/sortingObjects/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/sortingObjects/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collections/sortingObjects/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collections/sortingObjects/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collectionsUtil/ArraysSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collectionsUtil/ArraysSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collectionsUtil/MyComparator.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collectionsUtil/MyComparator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collectionsUtil/SortedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collectionsUtil/SortedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/collectionsUtil/collectionsReverseDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/collectionsUtil/collectionsReverseDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/encapsulation/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/encapsulation/Customer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/encapsulation/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/encapsulation/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/enums/Databases.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/enums/Databases.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/enums/PaymentType.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/enums/PaymentType.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/enums/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/enums/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/exception/CheckedCustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/exception/CheckedCustomException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/exception/CheckedException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/exception/CheckedException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/exception/Division.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/exception/Division.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/exception/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/exception/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/exception/ThrowKeyword.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/exception/ThrowKeyword.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/exception/UncheckedCustomException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/exception/UncheckedCustomException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/executor/CheckProcessorTask.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/executor/CheckProcessorTask.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/executor/ExecutorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/executor/ExecutorDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/executor/MyCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/executor/MyCallable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/executor/TestCallable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/executor/TestCallable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/garbageCollection/GCDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/garbageCollection/GCDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/generics/A.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/generics/A.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/generics/AnyRunnable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/generics/AnyRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/generics/AnyRunnableTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/generics/AnyRunnableTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/generics/B.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/generics/B.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/generics/MethodLevelGenerics.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/generics/MethodLevelGenerics.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/generics/MyClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/generics/MyClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/generics/MyGenericClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/generics/MyGenericClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/generics/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/generics/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/generics/TypeCastingProblem.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/generics/TypeCastingProblem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/generics/WildCardParams.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/generics/WildCardParams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/i18n/DateFormatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/i18n/DateFormatTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/i18n/LocaleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/i18n/LocaleTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/i18n/NumberFormatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/i18n/NumberFormatTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/i18n/SimpleDateFormatTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/i18n/SimpleDateFormatTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/interfaces/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/interfaces/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/interfaces/Honda.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/interfaces/Honda.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/interfaces/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/interfaces/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/CheckProcessor.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/CheckProcessor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/JoinDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/JoinDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/MultiThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/MultiThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/SingleThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/SingleThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/interrupt/InterruptDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/interrupt/InterruptDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/interrupt/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/interrupt/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/synchronization/DisplayMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/synchronization/DisplayMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/synchronization/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/synchronization/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/synchronization/SynchronizedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/synchronization/SynchronizedDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/synchronization/syncBlocks/DisplayMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/synchronization/syncBlocks/DisplayMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/synchronization/syncBlocks/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/synchronization/syncBlocks/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/synchronization/syncBlocks/SynchronizedDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/synchronization/syncBlocks/SynchronizedDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/threadCommunication/MainThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/threadCommunication/MainThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/threadCommunication/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/threadCommunication/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/yield/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/yield/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/multithreading/yield/YieldDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/multithreading/yield/YieldDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/objectMethods/Passenger.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/objectMethods/Passenger.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/objectMethods/TestC.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/objectMethods/TestC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/polymorphism/CompileTimeBinding.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/polymorphism/CompileTimeBinding.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/polymorphism/runtimePolyDemo/AppleLaptop.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/polymorphism/runtimePolyDemo/AppleLaptop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/polymorphism/runtimePolyDemo/Macbook.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/polymorphism/runtimePolyDemo/Macbook.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/polymorphism/runtimePolyDemo/MacbookAir.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/polymorphism/runtimePolyDemo/MacbookAir.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/polymorphism/runtimePolyDemo/MacbookPro.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/polymorphism/runtimePolyDemo/MacbookPro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/polymorphism/runtimePolyDemo/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/polymorphism/runtimePolyDemo/TestClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/reflections/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/reflections/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/string/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/string/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/string/StringDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/string/StringDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/string/StringMethods.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/string/StringMethods.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/string/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/string/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/string/bufferandbuilder/SBDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/string/bufferandbuilder/SBDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/string/immutable/ImmutableDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/string/immutable/ImmutableDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/string/immutable/StringPoolDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/string/immutable/StringPoolDemo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/learning/string/immutable/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/learning/string/immutable/User.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/misc/PanCard_Check.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/misc/PanCard_Check.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/misc/ReverseArray.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/misc/ReverseArray.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Allstar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Allstar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Array11.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Array11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Array220.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Array220.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Array6.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Array6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/ChangePI.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/ChangePI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/ChangeXY.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/ChangeXY.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Count11.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Count11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Count7.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Count7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Count7_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Count7_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Count8.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Count8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/CountABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/CountABC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/CountHi2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/CountHi2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/CountPairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/CountPairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Counthi.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Counthi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Countxxx.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Countxxx.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/EndX.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/EndX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Factorial.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Factorial.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Fibbonaci.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Fibbonaci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/NestParen.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/NestParen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/NoX.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/NoX.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/PairStar.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/PairStar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/ParenBit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/ParenBit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/PowerN.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/PowerN.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/StrCopies.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/StrCopies.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/StrCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/StrCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/StrDist.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/StrDist.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/StringClean.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/StringClean.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Sum_Of_Digits.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Sum_Of_Digits.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/recursion/Triangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/recursion/Triangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/collection_prob/ConcHMapExmpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/collection_prob/ConcHMapExmpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/collection_prob/Concurrent_H_Map_demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/collection_prob/Concurrent_H_Map_demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/collection_prob/ContractTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/collection_prob/ContractTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/collection_prob/EmployeeKey.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/collection_prob/EmployeeKey.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/collection_prob/EmployeeKey12.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/collection_prob/EmployeeKey12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/collection_prob/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/collection_prob/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/collection_prob/SetHashcode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/collection_prob/SetHashcode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/collection_prob/Weak_H_Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/collection_prob/Weak_H_Map.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/collection_prob/findOccurrence_H_MAP.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/collection_prob/findOccurrence_H_MAP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/gfgeeks/CopyString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/gfgeeks/CopyString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/misc/FindCharInWord.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/FindCharInWord.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/misc/FindCharInWord_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/FindCharInWord_1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/misc/FindWordLength.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/FindWordLength.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/misc/String_Anagrams.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/String_Anagrams.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/misc/String_Encode.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/String_Encode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/misc/String_Length.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/String_Length.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/misc/String_Lexico.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/String_Lexico.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/misc/String_Lexico_Arrays.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/String_Lexico_Arrays.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/misc/String_Palindrome.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/String_Palindrome.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/misc/String_Palindrome_Ternary.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/String_Palindrome_Ternary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/misc/String_Regex_Tester.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/String_Regex_Tester.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/misc/String_Tokenizer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/misc/String_Tokenizer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/string/regex/PatternFind.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/string/regex/PatternFind.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java9Features/immutable/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java9Features/immutable/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java9Features/privateMethods/SendNotificationImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java9Features/privateMethods/SendNotificationImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java9Features/privateMethods/SendNotifications.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java9Features/privateMethods/SendNotifications.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java9Features/safeVarArgs/SafeVarArgsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java9Features/safeVarArgs/SafeVarArgsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java9Features/streamingAPI/StreamingAPIDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java9Features/streamingAPI/StreamingAPIDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/java9Features/tryWithresource/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java9Features/tryWithresource/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8WithSelenium/com/udemy/java/lambda/GreetingService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8WithSelenium/com/udemy/java/lambda/GreetingService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8WithSelenium/com/udemy/java/lambda/TestGreet.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8WithSelenium/com/udemy/java/lambda/TestGreet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/lambda/GreetingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/lambda/GreetingService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/lambda/TestGreet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/lambda/TestGreet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -414,7 +88,7 @@
       <recent name="$PROJECT_DIR$/src/string/collection_prob" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestGreet">
+  <component name="RunManager" selected="Application.TestSupp">
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java9Features.immutable.Demo" />
       <module name="HackerRank" />
@@ -428,38 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrimitiveType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java8WithSelenium.com.udemy.java.datatype.PrimitiveType" />
+    <configuration name="TestCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8WithSelenium.com.udemy.java.assignment.task1.TestCalculator" />
       <module name="HackerRank" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="java8WithSelenium.com.udemy.java.datatype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="misc.ReverseArray" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="misc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="java9Features.tryWithresource.Test" />
-      <module name="HackerRank" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="java9Features.tryWithresource.*" />
+          <option name="PATTERN" value="java8WithSelenium.com.udemy.java.assignment.task1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -480,20 +128,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8WithSelenium.com.udemy.java.lambda.TestMain" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8WithSelenium.com.udemy.java.lambda.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSupp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java8WithSelenium.com.udemy.java.functionalInterfaces.supplier.TestSupp" />
+      <module name="HackerRank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java8WithSelenium.com.udemy.java.functionalInterfaces.supplier.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.TestGreet" />
-      <item itemvalue="Application.Test" />
-      <item itemvalue="Application.ReverseArray" />
-      <item itemvalue="Application.PrimitiveType" />
       <item itemvalue="Application.Demo" />
+      <item itemvalue="Application.TestMain" />
+      <item itemvalue="Application.TestCalculator" />
+      <item itemvalue="Application.TestSupp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestSupp" />
+        <item itemvalue="Application.TestCalculator" />
+        <item itemvalue="Application.TestMain" />
         <item itemvalue="Application.TestGreet" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.PrimitiveType" />
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -577,22 +251,38 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="489" y="155" width="501" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1586344984474" />
-    <state width="1253" height="233" key="GridCell.Tab.0.bottom" timestamp="1586353300252">
+    <state width="1253" height="174" key="GridCell.Tab.0.bottom" timestamp="1586598066213">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586353300252" />
-    <state width="1253" height="233" key="GridCell.Tab.0.center" timestamp="1586353300251">
+    <state width="1253" height="174" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586598066213" />
+    <state width="1253" height="174" key="GridCell.Tab.0.center" timestamp="1586598066212">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1586353300251" />
-    <state width="1253" height="233" key="GridCell.Tab.0.left" timestamp="1586353300251">
+    <state width="1253" height="174" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1586598066212" />
+    <state width="1253" height="174" key="GridCell.Tab.0.left" timestamp="1586598066212">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1586353300251" />
-    <state width="1253" height="233" key="GridCell.Tab.0.right" timestamp="1586353300251">
+    <state width="1253" height="174" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1586598066212" />
+    <state width="1253" height="174" key="GridCell.Tab.0.right" timestamp="1586598066212">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="233" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1586353300251" />
+    <state width="1253" height="174" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1586598066212" />
+    <state width="1253" height="211" key="GridCell.Tab.1.bottom" timestamp="1586399332452">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="211" key="GridCell.Tab.1.bottom/67.27.1299.741@67.27.1299.741" timestamp="1586399332452" />
+    <state width="1253" height="211" key="GridCell.Tab.1.center" timestamp="1586399332452">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="211" key="GridCell.Tab.1.center/67.27.1299.741@67.27.1299.741" timestamp="1586399332452" />
+    <state width="1253" height="211" key="GridCell.Tab.1.left" timestamp="1586399332452">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="211" key="GridCell.Tab.1.left/67.27.1299.741@67.27.1299.741" timestamp="1586399332452" />
+    <state width="1253" height="211" key="GridCell.Tab.1.right" timestamp="1586399332452">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="211" key="GridCell.Tab.1.right/67.27.1299.741@67.27.1299.741" timestamp="1586399332452" />
     <state x="205" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1586345852161">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
@@ -625,10 +315,10 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="67" y="27" width="1289" height="741" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1586007815743" />
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586142449733">
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586396155545">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1586142449733" />
+    <state x="379" y="89" width="672" height="678" key="search.everywhere.popup/67.27.1299.741@67.27.1299.741" timestamp="1586396155545" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -697,6 +387,11 @@
           <url>file://$PROJECT_DIR$/src/learning/JVMArchitecture/User.java</url>
           <line>6</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/lambda/TestGreet.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

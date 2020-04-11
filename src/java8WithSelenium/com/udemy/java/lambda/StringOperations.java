@@ -1,8 +1,6 @@
 package java8WithSelenium.com.udemy.java.lambda;
 
-
 @FunctionalInterface
-public interface GreetingService {
-
-    String greet(String name);
+public interface StringOperations {
+    void accept(String s1);
 }
