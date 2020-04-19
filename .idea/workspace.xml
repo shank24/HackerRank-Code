@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="556b6025-e68c-4a6b-bf0e-383e7c3b31b5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/assignment/task1/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/assignment/task1/TestMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
