@@ -2,7 +2,6 @@ package java8WithSelenium.com.udemy.java.lambda;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 
 public class TestMain {
 

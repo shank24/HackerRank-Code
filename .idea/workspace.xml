@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="556b6025-e68c-4a6b-bf0e-383e7c3b31b5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/java8WithSelenium/com/udemy/java/lambda/TestMain.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/java8WithSelenium/com/udemy/java/lambda/TestMain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/lambda/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/java8WithSelenium/com/udemy/java/lambda/TestMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +81,7 @@
       <recent name="$PROJECT_DIR$/src/string/collection_prob" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestMain (1)">
+  <component name="RunManager" selected="Application.TestMain">
     <configuration name="TestCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="java8WithSelenium.com.udemy.java.assignment.task1.TestCalculator" />
       <module name="HackerRank" />
@@ -154,11 +156,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestMain" />
         <item itemvalue="Application.TestMain (1)" />
         <item itemvalue="Application.TestGreet" />
         <item itemvalue="Application.TestSupp" />
         <item itemvalue="Application.TestCalculator" />
-        <item itemvalue="Application.TestMain" />
       </list>
     </recent_temporary>
   </component>
@@ -242,22 +244,22 @@
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="489" y="155" width="501" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1586344984474" />
-    <state width="1253" height="174" key="GridCell.Tab.0.bottom" timestamp="1587092789793">
+    <state width="1253" height="174" key="GridCell.Tab.0.bottom" timestamp="1588522564594">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="174" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1587092789793" />
-    <state width="1253" height="174" key="GridCell.Tab.0.center" timestamp="1587092789793">
+    <state width="1253" height="174" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1588522564594" />
+    <state width="1253" height="174" key="GridCell.Tab.0.center" timestamp="1588522564591">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="174" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1587092789793" />
-    <state width="1253" height="174" key="GridCell.Tab.0.left" timestamp="1587092789792">
+    <state width="1253" height="174" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1588522564591" />
+    <state width="1253" height="174" key="GridCell.Tab.0.left" timestamp="1588522564590">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="174" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1587092789792" />
-    <state width="1253" height="174" key="GridCell.Tab.0.right" timestamp="1587092789793">
+    <state width="1253" height="174" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1588522564590" />
+    <state width="1253" height="174" key="GridCell.Tab.0.right" timestamp="1588522564593">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="174" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1587092789793" />
+    <state width="1253" height="174" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1588522564593" />
     <state width="1253" height="211" key="GridCell.Tab.1.bottom" timestamp="1586399332452">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
