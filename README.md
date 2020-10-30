@@ -1,2 +1,2 @@
-# HackerRank-Code
-This repo contains code specific to Hacker Rank Problems.
+# Java Updates
+This repo contains code specific to Java Updates and some Code problems.
